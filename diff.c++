@@ -6,6 +6,6 @@ int main()
     int z;
     z=b-a;
     cout<<"the z is the sum of the a and b variable";
-    cout<<"pull check";
+    cout<<"pull check1234";
     return 0;
 }
